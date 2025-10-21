@@ -172,24 +172,6 @@ Each component example includes:
 - **Best practices**: Common patterns and recommendations
 - **Error handling**: Loading states and error scenarios
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request with:
-
-- New component examples
-- Enhanced existing examples
-- Bug fixes
-- Documentation improvements
-
-## 📄 License
-
-This project is created for educational purposes and is part of a React Native learning series.
-
-## 🔗 Related Projects
-
-- **React Hooks Examples**: Located in `2_hooks/MyNewProject/`
-- **Main Project**: Located in `1_hands_on/`
-
 ---
 
 **Happy Learning! 🎉**
