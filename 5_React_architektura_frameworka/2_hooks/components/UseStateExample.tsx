@@ -16,7 +16,7 @@ const UseStateExample: React.FC = () => {
   const handleChangeColor = () => {
     const randomColor = Math.floor(Math.random() * 16777215).toString(16);
     const newColor = `#${randomColor}`;
-
+    setColor(newColor);
   };
 
   return (
