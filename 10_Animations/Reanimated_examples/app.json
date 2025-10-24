@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "rn_apis",
-    "slug": "rn_apis",
+    "name": "MyReactNativeApp",
+    "slug": "MyReactNativeApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "rnapis",
+    "scheme": "myreactnativeapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
@@ -21,8 +21,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true,
-      "permissions": ["VIBRATE"]
+      "edgeToEdgeEnabled": true
     },
     "web": {
       "bundler": "metro",
